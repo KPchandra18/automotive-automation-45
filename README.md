@@ -23,5 +23,12 @@
 - Create interview-ready portfolio projects 
 ---
 ## Repository Structure
+automotive-automation-45/
+│
+├── day01/
+│   ├── hello_automotive.py
+│   └── notes.md
+│
+└── README.md
 
 
